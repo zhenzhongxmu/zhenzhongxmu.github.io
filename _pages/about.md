@@ -11,13 +11,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Biography
+# Zhenzhong WANG (王贞众)
 
-I expect to receive my Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University in 2024, where I am supervised by Prof. Kay Chen Tan and Dr. Wanyu Lin. I obtained my Bachelor's Degree in Computer Science and Technology from Northeastern University, China, in 2017 and my Master's Degree in Computer Science and Technology from Xiamen University, China, in 2021. 
+I expect to receive my Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University in 2024, where I am supervised by Prof. Kay Chen Tan (Chair Professor, IEEE Fellow) and Dr. Wanyu Lin. I obtained my Bachelor's Degree in Computer Science and Technology from Northeastern University, China, in 2017 and my Master's Degree in Computer Science and Technology from Xiamen University, China, in 2021, supervised by Prof. Min Jiang. 
 
-
-
-# Research Interest
 
 My research interests include learning-driven optimization algorithms, trustworthy machine learning, and AI for Science. The research goal is to develop cutting-edge optimization/learning algorithms to solve optimization/learning problems in engineering and scientific fields, such as molecule discovery, material design, and multi-physics field simulation.
 
@@ -79,10 +76,6 @@ Reviewer/PC Member for
 - *IEEE Transactions on Cognitive and Developmental Systems*
 - *AAAI Conference on Artificial Intelligence*
 - *International Joint Conference on Neural Networks*
-  
-# Education
-- *2021 - 2024*, Ph.D., The Hong Kong Polytechnic University, China. 
-- *2018 - 2021*, Master, Xiamen University, China.
-- *2013 - 2017*, Bachelor, Northeastern University, China.
+
 
 
