@@ -29,7 +29,7 @@ My research focuses on XXX.
 
 1. <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Evolutionary Multitask Optimization with Lower Confidence Bound-Based Solution Selection Strategy</a>, *IEEE Transactions on Evolutionary Computation*, 2024, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
 
-1.  <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Generating Diagnostic and Actionable Explanations for Fair Graph Neural Networks</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge">CCF-A</code>
+1.  <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Generating Diagnostic and Actionable Explanations for Fair Graph Neural Networks</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(218, 247, 166,0.95)">CCF-A</code>
 
 1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge">Preprint</code>
 
