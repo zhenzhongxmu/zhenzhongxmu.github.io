@@ -37,7 +37,7 @@ My research focuses on XXX.
 
 1.  <strong>Z. Wang</strong>, D. Xu, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Spatial-Temporal Knowledge Transfer for Dynamic Constrained Multiobjective Optimization</a>, <code class="language-plaintext highlighter-rouge">Under review</code>
 
-1. <strong>Z. Wang</strong>, H. Hong, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Monte Carlo-Driven Adaptive Resource Allocation for Dynamic Multiobjective Optimization</a>, <code class="language-plaintext highlighter-rouge">Under review<</code>
+1. <strong>Z. Wang</strong>, H. Hong, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Monte Carlo-Driven Adaptive Resource Allocation for Dynamic Multiobjective Optimization</a>, <code class="language-plaintext highlighter-rouge">Under review</code>
 
 1.  <strong>Z. Wang</strong>, H. Hong, K. Ye, G. Zhang, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Manifold Interpolation for Large-Scale Multiobjective Optimization via Generative Adversarial Networks</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2023, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
 
