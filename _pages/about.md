@@ -17,42 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on XXX.
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[1] <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Evolutionary Multitask Optimization with Lower Confidence Bound-Based Solution Selection Strategy</a>, *IEEE Transactions on Evolutionary Computation*, 2024, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[2] <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Generating Diagnostic and Actionable Explanations for Fair Graph Neural Networks</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge">CCF-A</code>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[3] <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge">Preprint</code>
+
+[4] <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Multi-View Subgraph Neural Networks: Self-Supervised Learning with Scarce Labeled Data</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge">Preprint</code>
+
+[5] <strong>Z. Wang</strong>, H. Hong, K. Ye, G. Zhang, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Manifold Interpolation for Large-Scale Multiobjective Optimization via Generative Adversarial Networks</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2023, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
+
+[6] <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Robust Graph Meta-Learning via Manifold Calibration with Proxy Subgraphs</a>, *Proceedings of the 37th AAAI Conference on Artificial Intelligence*, 2023, <code class="language-plaintext highlighter-rouge">CCF-A</code>
+
+[7] M. Jiang, <strong>Z. Wang*</strong>, L. Qiu, S. Guo, X. Gao*, K. C. Tan, <a href="https://arxiv.org"> Individual-Based Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
+
+[8] M. Jiang, <strong>Z. Wang</strong>, H. Hong, G. G. Yen, <a href="https://arxiv.org"> Knee Point-Based Imbalanced Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Evolutionary Computation*, 2021, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
+
+[9] M. Jiang, <strong>Z. Wang</strong>, L. Qiu, S. Guo, X. Gao and K. C. Tan, <a href="https://arxiv.org"> A Fast Dynamic Evolutionary Multiobjective Algorithm via Manifold Transfer Learning</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
+
+
+
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Service
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Reviewer/PC Member for
+- *IEEE Transactions on Evolutionary Computation*
+- *IEEE Transactions on Cybernetics*
+- *IEEE Transactions on Neural Networks and Learning Systems*
+- *IEEE Computational Intelligence Magazine*
+- *IEEE Transactions on Artificial Intelligence*
+- *IEEE Transactions on Emerging Topics in Computational Intelligence*
+- *IEEE Transactions on Cognitive and Developmental Systems*
+- *AAAI Conference on Artificial Intelligence*
+- *International Joint Conference on Neural Networks*
+  
+# Education
+- *2021 - 2024*, Ph.D., The Hong Kong Polytechnic University, China. 
+- *2018 - 2021*, Master, Xiamen University, China.
+- *2013 - 2017*, Bachelor, Northeastern University, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
