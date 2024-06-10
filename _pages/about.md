@@ -13,7 +13,13 @@ redirect_from:
 
 # Biography
 
-My research focuses on XXX.
+I expect to receive my Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University in 2024, where I am supervised by Prof. Kay Chen Tan and Dr. Wanyu Lin. I obtained my Bachelor's Degree in Computer Science and Technology from Northeastern University, China, in 2017 and my Master's Degree in Computer Science and Technology from Xiamen University, China, in 2021. 
+
+
+
+# Research Interest
+
+My research interests include learning-driven optimization algorithms, trustworthy machine learning, and AI for Science. The research goal is to develop cutting-edge optimization/learning algorithms to solve optimization/learning problems in engineering and scientific fields, such as molecule discovery, material design, and multi-physics field simulation.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
