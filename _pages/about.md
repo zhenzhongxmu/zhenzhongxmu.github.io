@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# Biography
 
 My research focuses on XXX.
 
@@ -27,27 +27,27 @@ My research focuses on XXX.
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-1. <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Evolutionary Multitask Optimization with Lower Confidence Bound-Based Solution Selection Strategy</a>, *IEEE Transactions on Evolutionary Computation*, 2024, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
+1. <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Evolutionary Multitask Optimization with Lower Confidence Bound-Based Solution Selection Strategy</a>, *IEEE Transactions on Evolutionary Computation*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)>JCR Q1, Top</code>
 
-1.  <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Generating Diagnostic and Actionable Explanations for Fair Graph Neural Networks</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(218, 247, 166,0.95)">CCF-A</code>
+1.  <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Generating Diagnostic and Actionable Explanations for Fair Graph Neural Networks</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)">CCF-A</code>
 
-1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge">Preprint</code>
+1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)>Preprint</code>
 
-1. <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Multi-View Subgraph Neural Networks: Self-Supervised Learning with Scarce Labeled Data</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge">Preprint</code>
+1. <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Multi-View Subgraph Neural Networks: Self-Supervised Learning with Scarce Labeled Data</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)>Preprint</code>
 
-1.  <strong>Z. Wang</strong>, D. Xu, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Spatial-Temporal Knowledge Transfer for Dynamic Constrained Multiobjective Optimization</a>, <code class="language-plaintext highlighter-rouge">Under review</code>
+1.  <strong>Z. Wang</strong>, D. Xu, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Spatial-Temporal Knowledge Transfer for Dynamic Constrained Multiobjective Optimization</a>, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)>Under review</code>
 
-1. <strong>Z. Wang</strong>, H. Hong, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Monte Carlo-Driven Adaptive Resource Allocation for Dynamic Multiobjective Optimization</a>, <code class="language-plaintext highlighter-rouge">Under review</code>
+1. <strong>Z. Wang</strong>, H. Hong, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Monte Carlo-Driven Adaptive Resource Allocation for Dynamic Multiobjective Optimization</a>, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)>Under review</code>
 
-1.  <strong>Z. Wang</strong>, H. Hong, K. Ye, G. Zhang, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Manifold Interpolation for Large-Scale Multiobjective Optimization via Generative Adversarial Networks</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2023, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
+1.  <strong>Z. Wang</strong>, H. Hong, K. Ye, G. Zhang, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Manifold Interpolation for Large-Scale Multiobjective Optimization via Generative Adversarial Networks</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)>JCR Q1, Top</code>
 
-1.  <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Robust Graph Meta-Learning via Manifold Calibration with Proxy Subgraphs</a>, *Proceedings of the 37th AAAI Conference on Artificial Intelligence*, 2023, <code class="language-plaintext highlighter-rouge">CCF-A</code>
+1.  <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Robust Graph Meta-Learning via Manifold Calibration with Proxy Subgraphs</a>, *Proceedings of the 37th AAAI Conference on Artificial Intelligence*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)>CCF-A</code>
 
-1.  M. Jiang, <strong>Z. Wang* </strong>, L. Qiu, S. Guo, X. Gao*, K. C. Tan, <a href="https://arxiv.org"> Individual-Based Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
+1.  M. Jiang, <strong>Z. Wang* </strong>, L. Qiu, S. Guo, X. Gao*, K. C. Tan, <a href="https://arxiv.org"> Individual-Based Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)>JCR Q1, Top</code>
 
-1.  M. Jiang, <strong>Z. Wang</strong>, H. Hong, G. G. Yen, <a href="https://arxiv.org"> Knee Point-Based Imbalanced Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Evolutionary Computation*, 2021, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
+1.  M. Jiang, <strong>Z. Wang</strong>, H. Hong, G. G. Yen, <a href="https://arxiv.org"> Knee Point-Based Imbalanced Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Evolutionary Computation*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)>JCR Q1, Top</code>
 
-1.  M. Jiang, <strong>Z. Wang</strong>, L. Qiu, S. Guo, X. Gao and K. C. Tan, <a href="https://arxiv.org"> A Fast Dynamic Evolutionary Multiobjective Algorithm via Manifold Transfer Learning</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge">JCR Q1, Top</code>
+1.  M. Jiang, <strong>Z. Wang</strong>, L. Qiu, S. Guo, X. Gao and K. C. Tan, <a href="https://arxiv.org"> A Fast Dynamic Evolutionary Multiobjective Algorithm via Manifold Transfer Learning</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(133, 193, 233,0.98)>JCR Q1, Top</code>
 
 
 
