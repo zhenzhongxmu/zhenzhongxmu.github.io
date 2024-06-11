@@ -52,7 +52,7 @@ My research interests include learning-driven optimization algorithms, trustwort
 
 1.  M. Jiang, <strong>Z. Wang</strong>, H. Hong, G. G. Yen, <a href="https://arxiv.org"> Knee Point-Based Imbalanced Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Evolutionary Computation*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
-1.  M. Jiang, <strong>Z. Wang</strong>, L. Qiu, S. Guo, X. Gao and K. C. Tan, <a href="https://arxiv.org"> A Fast Dynamic Evolutionary Multiobjective Algorithm via Manifold Transfer Learning</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
+1.  M. Jiang, <strong>Z. Wang</strong>, L. Qiu, S. Guo, X. Gao, K. C. Tan, <a href="https://arxiv.org"> A Fast Dynamic Evolutionary Multiobjective Algorithm via Manifold Transfer Learning</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
 
 
