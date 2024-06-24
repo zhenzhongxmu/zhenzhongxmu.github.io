@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhenzhong WANG"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "XXX University"
-  location         : "XX, China"
+  bio              : "The Hong Kong Polytechnic University"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
