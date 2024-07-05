@@ -73,6 +73,7 @@ Reviewer/PC Member for
 - *IEEE Transactions on Emerging Topics in Computational Intelligence*
 - *IEEE Transactions on Cognitive and Developmental Systems*
 - *AAAI Conference on Artificial Intelligence*
+- *Complex & Intelligent Systems*
 - *International Joint Conference on Neural Networks*
 
 
