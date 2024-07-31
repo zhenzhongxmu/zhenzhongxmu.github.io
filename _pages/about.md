@@ -13,7 +13,7 @@ redirect_from:
 
 # Zhenzhong WANG (王贞众)
 
-I expect to receive my Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University in 2024 and then join Xiamen University. During my Ph.D. study, I am supervised by <a href='https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=zh-CN'>Prof. Kay Chen Tan</a> (Chair Professor, IEEE Fellow) and <a href='https://wanyu-lin.github.io/'>Prof. Wanyu Lin</a>. I obtained my Bachelor's degree from Northeastern University, China, and my Master's degree from Xiamen University, China, supervised by <a href='https://informatics.xmu.edu.cn/info/1385/25029.htm'>Prof. Min Jiang</a>. 
+I will receive my Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University and join Xiamen University as an Assistant Professor this coming Fall. During my Ph.D. study, I am supervised by <a href='https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=zh-CN'>Prof. Kay Chen Tan</a> (Chair Professor, IEEE Fellow) and <a href='https://wanyu-lin.github.io/'>Prof. Wanyu Lin</a>. I obtained my Bachelor's degree from Northeastern University, China, and my Master's degree from Xiamen University, China, supervised by <a href='https://informatics.xmu.edu.cn/info/1385/25029.htm'>Prof. Min Jiang</a>. 
 
 
 My research interests include computational intelligence, trustworthy machine learning, and AI for Science. My research goal is to develop cutting-edge optimization/learning algorithms to solve optimization/learning problems in engineering and scientific fields, such as molecule discovery, material design, and multi-physics field simulation.
