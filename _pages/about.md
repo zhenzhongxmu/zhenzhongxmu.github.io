@@ -36,6 +36,8 @@ My research interests include computational intelligence, trustworthy machine le
 
 1.  <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30168"> Generating Diagnostic and Actionable Explanations for Fair Graph Neural Networks</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
+1. <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Multi-View Subgraph Neural Networks: Self-Supervised Learning with Scarce Labeled Data</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
+
 1.  <strong>Z. Wang</strong>, H. Hong, K. Ye, G. Zhang, M. Jiang, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/9552479"> Manifold Interpolation for Large-Scale Multiobjective Optimization via Generative Adversarial Networks</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
 1.  <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26776"> Robust Graph Meta-Learning via Manifold Calibration with Proxy Subgraphs</a>, *Proceedings of the 37th AAAI Conference on Artificial Intelligence*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
@@ -47,8 +49,6 @@ My research interests include computational intelligence, trustworthy machine le
 1.  M. Jiang, <strong>Z. Wang</strong>, H. Hong, G. G. Yen, <a href="https://ieeexplore.ieee.org/abstract/document/9122031"> Knee Point-Based Imbalanced Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Evolutionary Computation*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
 1.  M. Jiang, <strong>Z. Wang</strong>, L. Qiu, S. Guo, X. Gao, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/9097186"> A Fast Dynamic Evolutionary Multiobjective Algorithm via Manifold Transfer Learning</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
-
-1. <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Multi-View Subgraph Neural Networks: Self-Supervised Learning with Scarce Labeled Data</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Minor revision</code>
 
 1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org/abs/2405.16041"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint, Under review</code>
 
