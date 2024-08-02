@@ -38,13 +38,13 @@ My research interests include computational intelligence, trustworthy machine le
 
 1. <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Multi-View Subgraph Neural Networks: Self-Supervised Learning with Scarce Labeled Data</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
+1.  L. Cao, Y. Liu, <strong>Z. Wang</strong>, D. Xu, K. Ye, K. C. Tan, M. Jiang <a href="https://ieeexplore.ieee.org/abstract/document/10379504"> An Interpretable Approach to the Solutions of High-Dimensional Partial Differential Equations</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
+
 1.  <strong>Z. Wang</strong>, H. Hong, K. Ye, G. Zhang, M. Jiang, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/9552479"> Manifold Interpolation for Large-Scale Multiobjective Optimization via Generative Adversarial Networks</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
 1.  <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26776"> Robust Graph Meta-Learning via Manifold Calibration with Proxy Subgraphs</a>, *Proceedings of the 37th AAAI Conference on Artificial Intelligence*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
 1.  <strong>Z. Wang</strong>, K. Ye, M. Jiang, J. Yao, N. Xiong, G. Yen, <a href="https://www.sciencedirect.com/science/article/pii/S2210650221001371">Solving Hybrid Charging Strategy Electric Vehicle based Dynamic Routing Problem via Evolutionary Multi-Objective Optimization</a>, *Swarm and Evolutionary Computation*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1</code>
-
-1.  L. Cao, Y. Liu, <strong>Z. Wang</strong>, D. Xu, K. Ye, K. C. Tan, M. Jiang <a href="https://ieeexplore.ieee.org/abstract/document/10379504"> An Interpretable Approach to the Solutions of High-Dimensional Partial Differential Equations</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
 1.  M. Jiang, <strong>Z. Wang* </strong>, L. Qiu, S. Guo, X. Gao* , K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/9199822"> Individual-Based Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
