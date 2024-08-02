@@ -32,7 +32,7 @@ My research interests include computational intelligence, trustworthy machine le
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-
+1. <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/10379504"> Evolutionary Multitask Optimization with Lower Confidence Bound-Based Solution Selection Strategy</a>, *IEEE Transactions on Evolutionary Computation*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
 1.  <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30168"> Generating Diagnostic and Actionable Explanations for Fair Graph Neural Networks</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
