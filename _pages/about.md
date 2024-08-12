@@ -18,7 +18,7 @@ I will receive my Ph.D. degree in the Department of Computing at The Hong Kong P
 During my Ph.D. study, I am supervised by <a href='https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=zh-CN'>Prof. Kay Chen Tan</a> (Chair Professor, IEEE Fellow) and <a href='https://wanyu-lin.github.io/'>Prof. Wanyu Lin</a>. I obtained my Bachelor's degree from Northeastern University, China, and my Master's degree from Xiamen University, China, supervised by <a href='https://informatics.xmu.edu.cn/info/1385/25029.htm'>Prof. Min Jiang</a>. 
 
 
-My research interests include computational intelligence, trustworthy machine learning, and AI for Science. My research goal is to develop cutting-edge optimization/learning algorithms to solve optimization/learning problems in engineering and scientific fields, such as molecule discovery, material design, and multi-physics field simulation.
+My research interests include computational intelligence and AI for Science. My research goal is to develop cutting-edge learning algorithms to solve complex problems in engineering and scientific fields, such as molecule discovery, material design, and multi-physics field simulation.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -41,7 +41,7 @@ My research interests include computational intelligence, trustworthy machine le
 
 1. <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Multi-View Subgraph Neural Networks: Self-Supervised Learning with Scarce Labeled Data</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
-1.  L. Cao, Y. Liu, <strong>Z. Wang</strong>, D. Xu, K. Ye, K. C. Tan, M. Jiang <a href="https://ieeexplore.ieee.org/abstract/document/10379504"> An Interpretable Approach to the Solutions of High-Dimensional Partial Differential Equations</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
+1.  L. Cao, Y. Liu, <strong>Z. Wang</strong>, D. Xu, K. Ye, K. C. Tan, M. Jiang, <a href="https://ieeexplore.ieee.org/abstract/document/10379504"> An Interpretable Approach to the Solutions of High-Dimensional Partial Differential Equations</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
 1.  <strong>Z. Wang</strong>, H. Hong, K. Ye, G. Zhang, M. Jiang, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/9552479"> Manifold Interpolation for Large-Scale Multiobjective Optimization via Generative Adversarial Networks</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
