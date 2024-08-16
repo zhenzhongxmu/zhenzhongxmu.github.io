@@ -32,6 +32,15 @@ My research interests include computational intelligence and AI for Science. My 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+
+
+1.  <strong>Z. Wang</strong>, H. Hua, W. Lin, M. Yang, K. C. Tan, <a href="https://arxiv.org/abs/2408.08044"> Crystalline Material Discovery in the Era of Artificial Intelligence</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
+
+1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org/abs/2405.16041"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
+
+1. <strong>Z. Wang</strong>, H. Hong, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Monte Carlo-Driven Adaptive Resource Allocation for Dynamic Multiobjective Optimization</a>, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Under review</code>
+
+
 1.  <strong>Z. Wang</strong>, D. Xu, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Spatial-Temporal Knowledge Transfer for Dynamic Constrained Multiobjective Optimization</a>, *IEEE Transactions on Evolutionary Computation*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Accept, JCR Q1, Top</code>
 
 
@@ -54,10 +63,6 @@ My research interests include computational intelligence and AI for Science. My 
 1.  M. Jiang, <strong>Z. Wang</strong>, H. Hong, G. G. Yen, <a href="https://ieeexplore.ieee.org/abstract/document/9122031"> Knee Point-Based Imbalanced Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Evolutionary Computation*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
 1.  M. Jiang, <strong>Z. Wang</strong>, L. Qiu, S. Guo, X. Gao, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/9097186"> A Fast Dynamic Evolutionary Multiobjective Algorithm via Manifold Transfer Learning</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
-
-1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org/abs/2405.16041"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint, Under review</code>
-
-1. <strong>Z. Wang</strong>, H. Hong, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Monte Carlo-Driven Adaptive Resource Allocation for Dynamic Multiobjective Optimization</a>, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Under review</code>
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
