@@ -46,7 +46,7 @@ My research interests include computational intelligence and AI for Science. My 
 
 1.  L. Cao, Y. Liu, <strong>Z. Wang</strong>, D. Xu, K. Ye, K. C. Tan, M. Jiang, <a href="https://ieeexplore.ieee.org/abstract/document/10379504"> An Interpretable Approach to the Solutions of High-Dimensional Partial Differential Equations</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
-1.  <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26776"> Robust Graph Meta-Learning via Manifold Calibration with Proxy Subgraphs</a>, *Proceedings of the 37th AAAI Conference on Artificial Intelligence*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
+1.  <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26776"> Robust Graph Meta-Learning via Manifold Calibration with Proxy Subgraphs</a>, *Proceedings of the 37th AAAI Conference on Artificial Intelligence*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
 1. <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/10379504"> Evolutionary Multitask Optimization with Lower Confidence Bound-Based Solution Selection Strategy</a>, *IEEE Transactions on Evolutionary Computation*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
