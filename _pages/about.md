@@ -50,9 +50,9 @@ My research interests include computational intelligence and AI for Science. My 
 
 1. <strong>Z. Wang</strong>, L. Cao, L. Feng, M. Jiang, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/10379504"> Evolutionary Multitask Optimization with Lower Confidence Bound-Based Solution Selection Strategy</a>, *IEEE Transactions on Evolutionary Computation*, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
-1.  <strong>Z. Wang</strong>, H. Hong, K. Ye, G. Zhang, M. Jiang, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/9552479"> Manifold Interpolation for Large-Scale Multiobjective Optimization via Generative Adversarial Networks</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
+1.  <strong>Z. Wang</strong>, K. Ye, M. Jiang, J. Yao, N. Xiong, G. Yen, <a href="https://www.sciencedirect.com/science/article/pii/S2210650221001371">Solving Hybrid Charging Strategy Electric Vehicle based Dynamic Routing Problem via Evolutionary Multi-Objective Optimization</a>, *Swarm and Evolutionary Computation*, 2022, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1</code>
 
-1.  <strong>Z. Wang</strong>, K. Ye, M. Jiang, J. Yao, N. Xiong, G. Yen, <a href="https://www.sciencedirect.com/science/article/pii/S2210650221001371">Solving Hybrid Charging Strategy Electric Vehicle based Dynamic Routing Problem via Evolutionary Multi-Objective Optimization</a>, *Swarm and Evolutionary Computation*, 2023, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1</code>
+1.  <strong>Z. Wang</strong>, H. Hong, K. Ye, G. Zhang, M. Jiang, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/9552479"> Manifold Interpolation for Large-Scale Multiobjective Optimization via Generative Adversarial Networks</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
 1.  M. Jiang, <strong>Z. Wang* </strong>, L. Qiu, S. Guo, X. Gao* , K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/9199822"> Individual-Based Transfer Learning for Dynamic Multiobjective Optimization</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
@@ -60,7 +60,7 @@ My research interests include computational intelligence and AI for Science. My 
 
 1.  M. Jiang, <strong>Z. Wang</strong>, L. Qiu, S. Guo, X. Gao, K. C. Tan, <a href="https://ieeexplore.ieee.org/abstract/document/9097186"> A Fast Dynamic Evolutionary Multiobjective Algorithm via Manifold Transfer Learning</a>, *IEEE Transactions on Cybernetics*, 2021, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
-1. <strong>Z. Wang</strong>, H. Hong, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Monte Carlo-Driven Adaptive Resource Allocation for Dynamic Multiobjective Optimization</a>, 2024, <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Under review</code>
+
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
