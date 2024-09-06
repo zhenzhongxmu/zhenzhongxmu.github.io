@@ -34,7 +34,7 @@ My research interests include computational intelligence and AI for Science. My 
 
 
 
-1.  <strong>Z. Wang</strong>, H. Hua, W. Lin, M. Yang, K. C. Tan, <a href="https://arxiv.org/abs/2408.08044"> Crystalline Material Discovery in the Era of Artificial Intelligence</a>, *Arxiv*, 2024. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
+1.  <strong>Z. Wang</strong>, H. Hua, W. Lin, M. Yang, K. C. Tan, <a href="https://arxiv.org/abs/2408.08044"> Crystalline Material Discovery in the Era of Artificial Intelligence</a>, *Arxiv*, 2024. [<a href="https://github.com/WanyuGroup/AI-for-crystal-materials/">repository</a>] <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
 
 1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org/abs/2405.16041"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2024. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
 
