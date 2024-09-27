@@ -76,15 +76,15 @@ My research interests include computational intelligence and AI for Science. My 
 
 Reviewer/PC Member for
 - *IEEE Transactions on Evolutionary Computation*
-- *IEEE Transactions on Cybernetics*
 - *IEEE Transactions on Neural Networks and Learning Systems*
+- *International Conference on Learning Representations*
+- *AAAI Conference on Artificial Intelligence*
+- *IEEE Transactions on Cybernetics*
 - *IEEE Computational Intelligence Magazine*
 - *IEEE Transactions on Artificial Intelligence*
 - *IEEE Transactions on Emerging Topics in Computational Intelligence*
 - *IEEE Transactions on Cognitive and Developmental Systems*
-- *AAAI Conference on Artificial Intelligence*
-- *Complex & Intelligent Systems*
-- *International Joint Conference on Neural Networks*
+
 
 
 
