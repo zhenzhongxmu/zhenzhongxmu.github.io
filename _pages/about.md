@@ -13,9 +13,7 @@ redirect_from:
 
 # Zhenzhong WANG (王贞众)
 
-I will receive my Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University and join Xiamen University as an Assistant Professor this coming Fall. 
-
-During my Ph.D. study, I am supervised by <a href='https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=zh-CN'>Prof. Kay Chen Tan</a> (Chair Professor, IEEE Fellow) and <a href='https://wanyu-lin.github.io/'>Prof. Wanyu Lin</a>. I obtained my Bachelor's degree from Northeastern University, China, and my Master's degree from Xiamen University, China, supervised by <a href='https://informatics.xmu.edu.cn/info/1385/25029.htm'>Prof. Min Jiang</a>. 
+I received my Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University in 2024 and will join Xiamen University as an Assistant Professor. During my Ph.D. study, I am supervised by <a href='https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=zh-CN'>Prof. Kay Chen Tan</a> (Chair Professor, IEEE Fellow) and <a href='https://wanyu-lin.github.io/'>Prof. Wanyu Lin</a>. I obtained my Bachelor's degree from Northeastern University, China, and my Master's degree from Xiamen University, China, supervised by <a href='https://informatics.xmu.edu.cn/info/1385/25029.htm'>Prof. Min Jiang</a>. 
 
 
 My research interests include computational intelligence and AI for Science. My research goal is to develop cutting-edge learning algorithms to solve complex problems in engineering and scientific fields, such as molecule discovery, material design, and multi-physics field simulation.
@@ -37,6 +35,8 @@ My research interests include computational intelligence and AI for Science. My 
 1.  <strong>Z. Wang</strong>, H. Hua, W. Lin, M. Yang, K. C. Tan, <a href="https://arxiv.org/abs/2408.08044"> Crystalline Material Discovery in the Era of Artificial Intelligence</a>, *Arxiv*, 2024. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code> [<a href="https://github.com/WanyuGroup/AI-for-crystal-materials/">repository</a>]
 
 1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org/abs/2405.16041"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2024. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
+
+1.  Q. Zeng, <strong>Z. Wang</strong>, Y Cheung, M. Jiang, <a href="https://arxiv.org/abs/2408.08989"> Ask, Attend, Attack: A Effective Decision-Based Black-Box Targeted Attack for Image-to-Text Models</a>, *NeurIPS*, 2024. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
 1.  <strong>Z. Wang</strong>, D. Xu, M. Jiang, K. C. Tan, <a href="https://ieeexplore.ieee.org/document/10644089"> Spatial-Temporal Knowledge Transfer for Dynamic Constrained Multiobjective Optimization</a>, *IEEE Transactions on Evolutionary Computation*, 2024. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code> [<a href="https://github.com/zhenzhongxmu/zhenzhongxmu.github.io/blob/main/assets/DCMFEA.zip">code</a>]
 
