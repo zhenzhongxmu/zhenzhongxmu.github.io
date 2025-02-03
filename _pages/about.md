@@ -13,7 +13,7 @@ redirect_from:
 
 # Zhenzhong WANG (王贞众)
 
-I received my Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University in 2024 and will join Xiamen University as an Assistant Professor. During my Ph.D. study, I am supervised by <a href='https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=zh-CN'>Prof. Kay Chen Tan</a> (Chair Professor, IEEE Fellow) and <a href='https://wanyu-lin.github.io/'>Prof. Wanyu Lin</a>. I obtained my Bachelor's degree from Northeastern University, China, and my Master's degree from Xiamen University, China, supervised by <a href='https://informatics.xmu.edu.cn/info/1385/25029.htm'>Prof. Min Jiang</a>. 
+I received my Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University in 2024 and join Xiamen University as an Assistant Professor. During my Ph.D. study, I am supervised by <a href='https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=zh-CN'>Prof. Kay Chen Tan</a> (Chair Professor, IEEE Fellow) and <a href='https://wanyu-lin.github.io/'>Prof. Wanyu Lin</a>. I obtained my Bachelor's degree from Northeastern University, China, and my Master's degree from Xiamen University, China, supervised by <a href='https://informatics.xmu.edu.cn/info/1385/25029.htm'>Prof. Min Jiang</a>. 
 
 
 My research interests include computational intelligence and AI for Science. My research goal is to develop cutting-edge learning algorithms to solve complex problems in engineering and scientific fields, such as molecule discovery, material design, and multi-physics field simulation.
@@ -40,7 +40,7 @@ My research interests include computational intelligence and AI for Science. My 
 
 1.  <strong>Z. Wang</strong>, D. Xu, M. Jiang, K. C. Tan, <a href="https://ieeexplore.ieee.org/document/10644089"> Spatial-Temporal Knowledge Transfer for Dynamic Constrained Multiobjective Optimization</a>, *IEEE Transactions on Evolutionary Computation*, 2024. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code> [<a href="https://github.com/zhenzhongxmu/zhenzhongxmu.github.io/blob/main/assets/DCMFEA.zip">code</a>]
 
-1.  <strong>Z. Wang</strong>, L. Cao, W. Lin, M. Jiang, K. C. Tan, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30168"> Generating Diagnostic and Actionable Explanations for Fair Graph Neural Networks</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
+1.  <strong>Z. Wang</strong>, L. Cao, W. Lin, M. Jiang, K. C. Tan, <a href="https://ojs.aaai.org/index.php/AAAI/article/view/30168"> Generating Diagnostic and Actionable Explanations for Fair Graph Neural Networks</a>, *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code> </code> [<a href="https://github.com/zhenzhongxmu/zhenzhongxmu.github.io/blob/main/assets/Geb.zip">code</a>]
 
 1. <strong>Z. Wang</strong>, Q. Zeng, W. Lin, M. Jiang, K. C. Tan, <a href="https://arxiv.org"> Multi-View Subgraph Neural Networks: Self-Supervised Learning with Scarce Labeled Data</a>, *IEEE Transactions on Neural Networks and Learning Systems*, 2024. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, Top</code>
 
@@ -78,6 +78,7 @@ Reviewer/PC Member for
 - *IEEE Transactions on Evolutionary Computation*
 - *IEEE Transactions on Neural Networks and Learning Systems*
 - *International Conference on Learning Representations*
+- *IEEE / CVF Computer Vision and Pattern Recognition Conference*
 - *AAAI Conference on Artificial Intelligence*
 - *IEEE Transactions on Cybernetics*
 - *IEEE Computational Intelligence Magazine*
