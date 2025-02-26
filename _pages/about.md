@@ -78,6 +78,7 @@ Reviewer/PC Member for
 - *IEEE Transactions on Evolutionary Computation*
 - *IEEE Transactions on Neural Networks and Learning Systems*
 - *International Conference on Learning Representations*
+- *International Conference on Computer Vision*
 - *IEEE / CVF Computer Vision and Pattern Recognition Conference*
 - *AAAI Conference on Artificial Intelligence*
 - *IEEE Transactions on Cybernetics*
