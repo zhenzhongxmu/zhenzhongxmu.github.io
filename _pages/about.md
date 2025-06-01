@@ -13,7 +13,7 @@ redirect_from:
 
 # Zhenzhong WANG (王贞众)
 
-He is currently an Assistant Professor at the School of Informatics, Xiamen University, and has been recognized as a high-level talent of Fujian Province. He received his Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University in December 2024, supervised by <a href='https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=zh-CN'>Prof. Kay Chen Tan</a> (Chair Professor, IEEE Fellow) and <a href='https://wanyu-lin.github.io/'>Prof. Wanyu Lin</a>. He obtained his Bachelor's degree from Northeastern University, China, and his Master's degree from Xiamen University, China, supervised by <a href='https://informatics.xmu.edu.cn/info/1385/25029.htm'>Prof. Min Jiang</a>. 
+He is currently an assistant professor at the School of Informatics, Xiamen University, and has been recognized as a high-level talent of Fujian Province. He received his Ph.D. degree in the Department of Computing at The Hong Kong Polytechnic University in December 2024, supervised by <a href='https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=zh-CN'>Prof. Kay Chen Tan</a> (Chair Professor, IEEE Fellow) and <a href='https://wanyu-lin.github.io/'>Prof. Wanyu Lin</a>. He obtained his Bachelor's degree from Northeastern University, China, and his Master's degree from Xiamen University, China, supervised by <a href='https://informatics.xmu.edu.cn/info/1385/25029.htm'>Prof. Min Jiang</a>. 
 
 
 His research interests include AI for Science and computational intelligence. His research goal is to develop cutting-edge learning algorithms to solve complex problems in engineering and scientific fields, such as molecule discovery, material design, and multi-physics field simulation.
@@ -79,10 +79,12 @@ His research interests include AI for Science and computational intelligence. Hi
 Reviewer/PC Member for
 - *IEEE Transactions on Evolutionary Computation*
 - *IEEE Transactions on Neural Networks and Learning Systems*
+- *NeurIPS*
 - *International Conference on Learning Representations*
 - *International Conference on Computer Vision*
 - *IEEE / CVF Computer Vision and Pattern Recognition Conference*
 - *AAAI Conference on Artificial Intelligence*
+- *Evolutionary Computation*
 - *IEEE Transactions on Cybernetics*
 - *IEEE Computational Intelligence Magazine*
 - *IEEE Transactions on Artificial Intelligence*
