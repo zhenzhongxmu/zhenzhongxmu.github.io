@@ -34,7 +34,7 @@ His research interests include AI for Science and computational intelligence. Hi
 
 1.  <strong>Z. Wang</strong>, X. Zhang, J. Liao, M. Jang, <a href="https://arxiv.org/"> Cross-Field Interface-Aware Neural Operators for Multiphase Flow Simulation</a>, *AAAI*, 2025. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
-1.  C. Yang, <strong>Z. Wang</strong>,  J. Liu, Y. Gong, M. Jang, <a href="https://arxiv.org/"> PEGNet: A Physics-Embedded Graph Network for Long-Term Stable Multiphysics Simulation </a>, *AAAI*, 2025. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
+1.  C. Yang, <strong>Z. Wang</strong>,  J. Liu, Y. Gong, M. Jang, <a href="https://arxiv.org/"> PEGNet: A Physics-Embedded Graph Network for Long-Term Stable Multiphysics Simulation</a>, *AAAI*, 2025. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
 1.  Y. Tang, D. Xu, Y. Hou, Y. Gong, <strong>Z. Wang*</strong>, <a href="https://arxiv.org/abs/2408.08044"> NexusSplats: An Efficient Approach for Robust Novel View Synthesis from Unstructured Image Collections</a>, *The International Conference on Machine Intelligence and Nature-inspired Computing*, 2025. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Best Paper Award</code>
 
