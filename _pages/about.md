@@ -32,9 +32,11 @@ His research interests include AI for Science and computational intelligence. Hi
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org/abs/2405.16041"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2025. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
+1.  <strong>Z. Wang</strong>, Y. Hou, C. Huang, Y. Du, D. Tao, M. Jiang, <a href="https://arxiv.org/abs/2601.15786"> Endowing Molecular Language with Geometry Perception via Modality Compensation for High-Throughput Quantum Hamiltonian Prediction</a>, *Arxiv*, 2026. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
 
-1.  <strong>Z. Wang</strong>, H. Hua, W. Lin, M. Yang, K. C. Tan, <a href="https://arxiv.org/abs/2408.08044"> Crystalline Material Discovery in the Era of Artificial Intelligence</a>, *ACM Computing Surveys*, 2025. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, IF 23.8</code> [<a href="https://github.com/WanyuGroup/AI-for-crystal-materials/">repository</a>]
+1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org/abs/2405.16041"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *Arxiv*, 2026. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
+
+1.  <strong>Z. Wang</strong>, H. Hua, W. Lin, M. Yang, K. C. Tan, <a href="https://arxiv.org/abs/2408.08044"> Crystalline Material Discovery in the Era of Artificial Intelligence</a>, *ACM Computing Surveys*, 2026. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">JCR Q1, IF 23.8</code> [<a href="https://github.com/WanyuGroup/AI-for-crystal-materials/">repository</a>]
 
 1.  <strong>Z. Wang</strong>, X. Zhang, J. Liao, M. Jiang, <a href="https://arxiv.org/"> Cross-Field Interface-Aware Neural Operators for Multiphase Flow Simulation</a>, *AAAI*, 2025. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A</code>
 
