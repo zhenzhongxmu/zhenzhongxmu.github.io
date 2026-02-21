@@ -32,7 +32,10 @@ His research interests include AI for Science and computational intelligence. Hi
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+
 1.  <strong>Z. Wang</strong>, Y. Hou, C. Huang, Y. Du, D. Tao, M. Jiang, <a href="https://arxiv.org/abs/2601.15786"> Endowing Molecular Language with Geometry Perception via Modality Compensation for High-Throughput Quantum Hamiltonian Prediction</a>, *Arxiv*, 2026. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
+
+1.  Y. Huang, D. Xu, Z. Lin, <strong>Z. Wang*</strong>, M. Jiang*, <a href="https://arxiv.org/abs/2602.11630">Neuro-Symbolic Multitasking: A Unified Framework for Discovering Generalizable Solutions to PDE Families</a>, *Arxiv*, 2026. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">Preprint</code>
 
 1.  <strong>Z. Wang</strong>, Z. Lin, W. Lin, M. Yang, M. Zeng, K. C. Tan, <a href="https://arxiv.org/abs/2405.16041"> Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a>, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026. <code class="language-plaintext highlighter-rouge" style="background-color:rgba(214, 234, 248,0.98)">CCF-A, JCR Q1, IF 18.6</code>
 
