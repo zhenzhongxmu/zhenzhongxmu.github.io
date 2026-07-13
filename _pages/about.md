@@ -85,6 +85,8 @@ His research interests include AI for Science and computational intelligence. Hi
 
 # Service
 
+Associate Editor for *IEEE Computational Intelligence Letters*
+
 Reviewer/PC Member for *IEEE TPAMI*, *IEEE TEVC*, *IEEE TNNLS*, *IEEE CIM*, *IEEE TCYB*, *IEEE TETCI*, *IEEE TCDS*, *IEEE TAI*, *ECJ*, *NeurIPS*, *ICLR*, *CVPR*, *AAAI*
 
 
